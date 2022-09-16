@@ -4,7 +4,7 @@
 
 Projeto construído no evento Next Level Week da Rocketseat!
 
-[🔗Clique aqui para acessar](https://krepsstyle.github.io/nlw-esports-explorer/)
+<a href="https://krepsstyle.github.io/nlw-esports-explorer/" target="_blank">🔗Clique aqui para acessar</a>
 
 ## 🧪 Tecnologias
 
